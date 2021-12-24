@@ -53,9 +53,12 @@ printName();
 
     3. Call Stack: To manage Global and Local execution contexts, javascript uses a stack which is called Call-Stack (execution context stack, program stack, control stack, run time stack, machine stack).
 
-    4. Hoisting: 
+    4. Hoisting: execute krar age sei var or func already memory te store hoye thaka ke hosting bole
         a.	Arrow function behaves like a variable
         b.	In creation phase variables are assigned undefined
         c.	function name stores the whole function body as value
 
 */
+/**
+ * Interview question:https://interview-preparation-for-you.blogspot.com/2018/12/execution-context.html
+ */
